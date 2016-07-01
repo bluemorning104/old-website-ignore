@@ -1,2 +1,2 @@
 # bluemorning104.github.io
-Personal website
+Directory for everything I'm connected to and other crap.
