@@ -3,7 +3,7 @@
 body{
     font-family: 'Roboto';
     margin:0px;
-    background-color:black;
+    background-color:white;
 }
 div.content{
     overflow:auto;
@@ -92,7 +92,7 @@ div.menu a:hover{
 	color:#3976bf;
 }
 a {
-    color:red;
+    color:white;
     text-decoration:none;
 }
 a:hover{
