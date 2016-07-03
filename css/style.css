@@ -107,7 +107,7 @@ a:hover{
 }
 .background::after {
     content: "";
-    background: url(../images/bg.jpg);
+    background: url(../images/bg1.jpg);
     opacity: 0.2;
     top: 0;
     left: 0;
